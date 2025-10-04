@@ -79,26 +79,22 @@ These models performed best in balancing accuracy and stability.
 ---
 
 ## 📈 Tools & Libraries Used
-- Python 🐍  
+- Python  
 - Pandas, NumPy  
 - Scikit-learn  
 - XGBoost  
-- Imbalanced-learn (SMOTE)  
+- Imbalanced-learn (SMOTE)
+- Standard scalar
+- GridSearchCV 
 - Matplotlib, Seaborn  
 
 ---
 
 ## 🚀 Future Work
 - Implement **feature selection** to identify the most influential variables  
-- Experiment with deep learning models for comparison  
-- Apply **recursive feature elimination (RFE)** or **SHAP** for explainability  
+- Experiment with deep learning models for comparison    
 - Model deployment using **Flask** or **Streamlit**
 
 ---
 
-## 👨‍💻 Author
-**Muhammed Jaseef K**  
-Data Science Enthusiast | Python | SQL | Machine Learning  
-📧 *[Add your email or LinkedIn link here]*
 
----
